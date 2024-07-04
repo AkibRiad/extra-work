@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://plus.unsplash.com/premium_photo-1674854858248-8987c02e74cf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    
+   
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 300px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: contain; /* Resize the background image to cover the entire container */
+  padding: 50px 20px;
+    
+    
+}
+div{
+    text-align: center;
+    /* background-color: aqua; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-style: italic;
+    font-display: solid;
+    padding: 5px;
+    margin: o;
+
+}
